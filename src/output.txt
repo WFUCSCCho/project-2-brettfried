@@ -1,0 +1,415 @@
+Inserted value: 1
+Inserted value: 2
+Inserted value: 3
+Inserted value: 4
+Inserted value: 5
+Inserted value: 6
+Inserted value: 7
+Inserted value: 8
+Inserted value: 9
+Inserted value: 10
+Inserted value: 11
+Inserted value: 12
+Inserted value: 13
+Inserted value: 14
+Inserted value: 15
+Inserted value: 16
+Inserted value: 17
+Inserted value: 18
+Inserted value: 19
+Inserted value: 20
+Inserted value: 21
+Inserted value: 22
+Inserted value: 23
+Inserted value: 24
+Inserted value: 25
+Inserted value: 26
+Inserted value: 27
+Inserted value: 28
+Inserted value: 29
+Inserted value: 30
+Inserted value: 31
+Inserted value: 32
+Inserted value: 33
+Inserted value: 34
+Inserted value: 35
+Inserted value: 36
+Inserted value: 37
+Inserted value: 38
+Inserted value: 39
+Inserted value: 40
+Inserted value: 41
+Inserted value: 42
+Inserted value: 43
+Inserted value: 44
+Inserted value: 45
+Inserted value: 46
+Inserted value: 47
+Inserted value: 48
+Inserted value: 49
+Inserted value: 50
+Inserted value: 51
+Inserted value: 52
+Inserted value: 53
+Inserted value: 54
+Inserted value: 55
+Inserted value: 56
+Inserted value: 57
+Inserted value: 58
+Inserted value: 59
+Inserted value: 60
+Inserted value: 61
+Inserted value: 62
+Inserted value: 63
+Inserted value: 64
+Inserted value: 65
+Inserted value: 66
+Inserted value: 67
+Inserted value: 68
+Inserted value: 69
+Inserted value: 70
+Inserted value: 71
+Inserted value: 72
+Inserted value: 73
+Inserted value: 74
+Inserted value: 75
+Inserted value: 76
+Inserted value: 77
+Inserted value: 78
+Inserted value: 79
+Inserted value: 80
+Inserted value: 81
+Inserted value: 82
+Inserted value: 83
+Inserted value: 84
+Inserted value: 85
+Inserted value: 86
+Inserted value: 87
+Inserted value: 88
+Inserted value: 89
+Inserted value: 90
+Inserted value: 91
+Inserted value: 92
+Inserted value: 93
+Inserted value: 94
+Inserted value: 95
+Inserted value: 96
+Inserted value: 97
+Inserted value: 98
+Inserted value: 99
+Inserted value: 100
+Tree contents in sorted order:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+Input file: /Users/brettfried/IdeaProjects/wfucsc201chofall2024-project-2-starter-lab2-csc201-fall2024/src/2021-2022 NBA Player Stats - Playoffs.csv, Lines requested: 100
+Inserted value: 1
+Inserted value: 2
+Inserted value: 3
+Inserted value: 4
+Inserted value: 5
+Inserted value: 6
+Inserted value: 7
+Inserted value: 8
+Inserted value: 9
+Inserted value: 10
+Inserted value: 11
+Inserted value: 12
+Inserted value: 13
+Inserted value: 14
+Inserted value: 15
+Inserted value: 16
+Inserted value: 17
+Inserted value: 18
+Inserted value: 19
+Inserted value: 20
+Inserted value: 21
+Inserted value: 22
+Inserted value: 23
+Inserted value: 24
+Inserted value: 25
+Inserted value: 26
+Inserted value: 27
+Inserted value: 28
+Inserted value: 29
+Inserted value: 30
+Inserted value: 31
+Inserted value: 32
+Inserted value: 33
+Inserted value: 34
+Inserted value: 35
+Inserted value: 36
+Inserted value: 37
+Inserted value: 38
+Inserted value: 39
+Inserted value: 40
+Inserted value: 41
+Inserted value: 42
+Inserted value: 43
+Inserted value: 44
+Inserted value: 45
+Inserted value: 46
+Inserted value: 47
+Inserted value: 48
+Inserted value: 49
+Inserted value: 50
+Inserted value: 51
+Inserted value: 52
+Inserted value: 53
+Inserted value: 54
+Inserted value: 55
+Inserted value: 56
+Inserted value: 57
+Inserted value: 58
+Inserted value: 59
+Inserted value: 60
+Inserted value: 61
+Inserted value: 62
+Inserted value: 63
+Inserted value: 64
+Inserted value: 65
+Inserted value: 66
+Inserted value: 67
+Inserted value: 68
+Inserted value: 69
+Inserted value: 70
+Inserted value: 71
+Inserted value: 72
+Inserted value: 73
+Inserted value: 74
+Inserted value: 75
+Inserted value: 76
+Inserted value: 77
+Inserted value: 78
+Inserted value: 79
+Inserted value: 80
+Inserted value: 81
+Inserted value: 82
+Inserted value: 83
+Inserted value: 84
+Inserted value: 85
+Inserted value: 86
+Inserted value: 87
+Inserted value: 88
+Inserted value: 89
+Inserted value: 90
+Inserted value: 91
+Inserted value: 92
+Inserted value: 93
+Inserted value: 94
+Inserted value: 95
+Inserted value: 96
+Inserted value: 97
+Inserted value: 98
+Inserted value: 99
+Inserted value: 100
+Insertion time (ns): 8271541
+Search time (ns): 2894375
+Tree contents in sorted order:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+Number of lines,Insertion time (ns),Search time (ns)
+100,8271541,2894375
+Number of lines,Insertion time (BST, ns),Insertion time (AVL, ns),Search time (BST, ns),Search time (AVL, ns)
+100,519042,339959,167917,57625
+Number of lines,Insertion time (BST, ns),Insertion time (AVL, ns),Search time (BST, ns),Search time (AVL, ns)
+50,347084,312250,102084,37250
+Number of lines,Insertion time (BST, ns),Insertion time (AVL, ns),Search time (BST, ns),Search time (AVL, ns)
+150,647375,565917,292667,69375
+Number of lines,Insertion time (BST, ns),Insertion time (AVL, ns),Search time (BST, ns),Search time (AVL, ns)
+200,694125,759667,427958,128375
